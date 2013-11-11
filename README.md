@@ -1,7 +1,7 @@
 Ever wanted a small, portable MySql admin tool?
 ===============================================
 
-You came to the right place. This is a portable version of [HeidiSql](http://www.heidisql.com/download.php).
+You came to the right place. This is a portable version of [HeidiSql](http://www.heidisql.com/download.php). The extracted size is just above 9 MB.
 
 # License
 
